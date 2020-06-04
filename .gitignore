@@ -1,8 +1,27 @@
-# Cache objects
-packer_cache/
-
-# Crash log
-crash.log
-
-# For built boxes
-*.box
+*.iml
+*.log
+.idea/
+.ipr
+.iws
+*~
+~*
+*.diff
+*.patch
+*.bak
+.DS_Store
+Thumbs.db
+.project
+.*proj
+.svn/
+*.swp
+*.swo
+*.pyc
+*.pyo
+.build
+node_modules
+_site
+sea-modules
+spm_modules
+.cache
+dist
+coverage
